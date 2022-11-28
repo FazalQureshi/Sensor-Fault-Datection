@@ -1,1 +1,1 @@
-# Sensor-Fault-Datection
+# Sensor-Fault-Detection
